@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "psychonetrics"]
+	path = psychonetrics
+	url = https://github.com/sachaepskamp/psychonetrics
+	shallow = true
+	registered = true
+[submodule "qgraph"]
+	path = qgraph
+	url = https://github.com/sachaepskamp/qgraph
+	shallow = true
+	registered = true
+[submodule "semPlot"]
+	path = semPlot
+	url = https://github.com/sachaepskamp/semplot
+	shallow = true
+	registered = true

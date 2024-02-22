@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bootnet"]
+	path = bootnet
+	url = https://github.com/sachaepskamp/bootnet
 [submodule "psychonetrics"]
 	path = psychonetrics
 	url = https://github.com/sachaepskamp/psychonetrics

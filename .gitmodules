@@ -8,6 +8,9 @@
 [submodule "bootnet"]
 	path = bootnet
 	url = https://github.com/sachaepskamp/bootnet
+[submodule "mlVAR"]
+	path = mlVAR
+	url = https://github.com/sachaepskamp/mlvar
 [submodule "psychonetrics"]
 	path = psychonetrics
 	url = https://github.com/sachaepskamp/psychonetrics

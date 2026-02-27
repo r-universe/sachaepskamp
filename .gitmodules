@@ -11,6 +11,9 @@
 [submodule "mlVAR"]
 	path = mlVAR
 	url = https://github.com/sachaepskamp/mlvar
+[submodule "parSim"]
+	path = parSim
+	url = https://github.com/sachaepskamp/parsim
 [submodule "psychonetrics"]
 	path = psychonetrics
 	url = https://github.com/sachaepskamp/psychonetrics
